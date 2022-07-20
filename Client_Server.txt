@@ -63,13 +63,13 @@ Client_Server
  
 6) Какие браузеры какие ядра используют
  IE (до 9) = Trident + Jscript
- IE (после 9) = трезубец + чакра
- 360=Trident+Blink 
+ IE (после 9) = Trident + Chakra
+ 360 = Trident+Blink 
  Sogou = Trident + WebKit
- Firefox=Gecko+JagerMonkey 
- Safari=webkit=webcore+jscore 
- Chrome=Blink+v8 
- Opera=Blink+v8
+ Firefox = Gecko+JagerMonkey 
+ Safari = webkit=webcore+jscore 
+ Chrome = Blink+v8 
+ Opera = Blink+v8
 
 7) Что такое API
 8. Что такое ендпоинты
